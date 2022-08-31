@@ -30,5 +30,4 @@
   </div>
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=llynn97)](https://github.com/anuraghazra/github-readme-stats)
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredhi%2Fhit-counter"/></a>                        
 
