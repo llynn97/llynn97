@@ -1,4 +1,4 @@
-### 안녕하세요 꾸준히 성장하는 Backend개발자 이다은입니다 😄
+<h3><div align="center">안녕하세요 꾸준히 성장하는 Backend개발자 이다은입니다 😄</h3>
 
 <!--
 **llynn97/llynn97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
