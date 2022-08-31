@@ -1,10 +1,10 @@
-### 안녕하세요 꾸준히 성장하는 Backend개발자 이다은입니다 👋
+### 안녕하세요 꾸준히 성장하는 Backend개발자 이다은입니다 😄
 
 <!--
 **llynn97/llynn97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=로고&logoColor==white"/></a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
