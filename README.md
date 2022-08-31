@@ -1,6 +1,6 @@
 <div align="center">
 
-## 안녕하세요 꾸준히 성장하는 Backend개발자 이다은입니다 😄
+## 안녕하세요 꾸준히 성장하는 Backend 개발자 이다은입니다 😄
 
 ### 🛠Tech Stack🛠
 
